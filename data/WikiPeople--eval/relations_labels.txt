@@ -1,0 +1,174 @@
+P19	place of birth
+P22	father
+P39	position held
+P102	member of political party
+P108	employer
+P119	place of burial
+P131	located in the administrative territorial entity
+P166	award received
+P175	performer
+P263	official residence
+P407	language of work or name
+P512	academic degree
+P598	commander of (DEPRECATED)
+P611	religious order
+P735	given name
+P740	location of formation
+P1027	conferred by
+P1066	student of
+P1142	political ideology
+P1268	represents
+P1346	winner
+P1399	convicted of
+P2359	Roman nomen gentilicium
+P40	child
+P91	sexual orientation
+P106	occupation
+P156	followed by
+P241	military branch
+P286	head coach
+P451	unmarried partner
+P470	Eight Banner register
+P485	archives at
+P495	country of origin
+P553	website account on
+P647	drafted by
+P734	family name
+P805	statement is subject of
+P945	allegiance
+P1037	director / manager
+P1327	partner in business or sport
+P1340	eye color
+P1344	participant in
+P1365	replaces
+P1706	together with
+P1875	represented by
+P1950	second family name in Spanish name
+P26	spouse
+P57	director
+P101	field of work
+P103	native language
+P137	operator
+P138	named after
+P264	record label
+P411	canonization status
+P463	member of
+P1050	medical condition
+P1303	instrument
+P1366	replaced by
+P1387	political alignment
+P1643	departure transaction
+P1853	blood type
+P2962	title of chess person
+P3342	significant person
+P66	ancestral home
+P69	educated at
+P184	doctoral advisor
+P185	doctoral student
+P279	subclass of
+P410	military rank
+P413	position played on team / speciality
+P460	said to be the same as
+P551	residence
+P607	conflict
+P800	notable work
+P841	feast day
+P859	sponsor
+P937	work location
+P1576	lifestyle
+P1884	hair color
+P2348	time period
+P2416	sports discipline competed in
+P3373	sibling
+P3831	object has role
+P31	instance of
+P35	head of state
+P53	family
+P54	member of sports team
+P118	league
+P155	follows
+P248	stated in
+P509	cause of death
+P811	academic minor
+P828	has cause
+P941	inspired by
+P1196	manner of death
+P1441	present in work
+P1598	consecrator
+P2094	competition class
+P2578	is the study of
+P2925	domain of saint or deity
+P2937	parliamentary term
+P6	head of government
+P17	country
+P50	author
+P140	religion or worldview
+P157	killed by
+P358	discography
+P412	voice type
+P552	handedness
+P641	sport
+P642	of
+P737	influenced by
+P741	playing hand
+P768	electoral district
+P793	significant event
+P972	catalog
+P1039	kinship to subject
+P1310	statement disputed by
+P1321	place of origin (Switzerland)
+P1343	described by source
+P1412	languages spoken, written or signed
+P1596	penalty
+P1686	for work
+P1731	Fach vocal classification
+P2358	Roman praenomen
+P3448	stepparent
+P3919	contributed to creative work
+P27	country of citizenship
+P199	business division
+P276	location
+P488	chairperson
+P511	honorific prefix
+P708	diocese
+P748	appointed by
+P802	student
+P1012	including
+P1035	honorific suffix
+P1347	military casualty classification
+P1411	nominated for
+P1532	country for sport
+P1534	end cause
+P1642	acquisition transaction
+P2632	place of detention
+P2650	interested in
+P2715	elected in
+P2842	place of marriage
+P3716	social classification
+P20	place of death
+P21	sex or gender
+P25	mother
+P135	movement
+P136	genre
+P159	headquarters location
+P170	creator
+P172	ethnic group
+P361	part of
+P423	shooting handedness
+P425	field of this occupation
+P468	dan/kyu rank
+P97	noble title
+P803	professorship
+P812	academic major
+P823	speaker
+P1001	applies to jurisdiction
+P1038	relative
+P1290	godparent
+P1416	affiliation
+P1830	owner of
+P1889	different from
+P2388	office held by head of the organization
+P2596	culture
+P2868	subject has role
+P3602	candidacy in election
+P4100	parliamentary group

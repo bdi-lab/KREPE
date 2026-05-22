@@ -1,0 +1,193 @@
+end cause
+archives at
+no_label
+is the study of
+handedness
+represented by
+subject has role
+significant person
+nominated for
+start time
+country
+stepparent
+convicted of
+hair color
+language of work or name
+partner in business or sport
+contributed to creative work
+noble title
+acquisition transaction
+academic degree
+given name
+replaced by
+country of citizenship
+sports discipline competed in
+religious order
+place of marriage
+eye color
+inception
+statement is subject of
+follows
+ethnic group
+date of disappearance
+military, police or special rank
+head of government
+drafted by
+together with
+named after
+feast day
+website account on
+member of
+mother
+sex or gender
+instance of
+position played on team / speciality
+relative
+lifestyle
+publication date
+sexual orientation
+consecrator
+creator
+participant in
+nomen gentilicium
+diocese
+significant event
+league or competition
+sport
+military branch
+title of chess person
+residence
+allegiance
+award received
+movement
+ancestral home
+author
+cause of death
+represents
+political ideology
+canonization status
+affiliation
+date of death
+country of origin
+head coach
+no_label
+point in time
+owner of
+political alignment
+sibling
+commander of (DEPRECATED)
+position held
+honorific suffix
+godparent
+of (DEPRECATED)
+parliamentary term
+applies to jurisdiction
+departure transaction
+present in work
+said to be the same as
+location
+languages spoken, written or signed
+winner
+discography
+director
+military casualty classification
+end time
+child
+notable work
+part of
+father
+praenomen
+sponsor
+dan/kyu rank
+family
+electoral district
+second family name in Spanish name
+killed by
+catalog
+speaker
+work period (end)
+oath of office date
+no_label
+employer
+position held by head of the organization
+stated in
+doctoral advisor
+genre
+candidacy in election
+shooting handedness
+educated at
+medical condition
+official residence
+parliamentary group
+member of sports team
+instrument
+competition class
+academic minor
+different from
+for work
+performer
+spouse
+conferred by
+academic major
+penalty
+replaces
+country for sport
+place of birth
+Eight Banner register
+earliest date
+field of work
+doctoral student
+participated in conflict
+retrieved
+occupation
+described by source
+influenced by
+date of baptism
+location of formation
+chairperson
+operator
+appointed by
+honorific prefix
+time period
+record label
+student of
+domain of saint or deity
+place of death
+municipal affiliation of a Swiss national
+blood type
+no_label
+object of statement has role
+professorship
+native language
+inspired by
+head of state
+member of political party
+social classification
+has cause
+family name
+student
+headquarters location
+place of detention
+field of this occupation
+statement disputed by
+date of birth
+playing hand
+manner of death
+interested in
+work location
+director / manager
+located in the administrative territorial entity
+elected in
+unmarried partner
+floruit
+followed by
+subclass of
+including
+voice type
+culture
+has organizational division
+kinship to subject
+religion or worldview
+place of burial
+Fach vocal classification
+work period (start)

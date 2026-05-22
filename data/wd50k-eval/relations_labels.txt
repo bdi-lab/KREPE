@@ -1,0 +1,531 @@
+P355	child organization or unit
+P2499	league level above
+P654	direction relative to location
+P127	owned by
+P1196	manner of death
+P263	official residence
+P5096	member of the crew of
+P1340	eye color
+P1026	academic thesis
+P832	public holiday
+P1343	described by source
+P488	chairperson
+P184	doctoral advisor
+P768	electoral district
+P541	office contested
+P3025	open days
+P3091	mount
+P3489	pregnancy category
+P161	cast member
+P750	distributed by
+P140	religion or worldview
+P452	industry
+P2238	official symbol
+P1012	including
+P3803	original film format
+P2500	league level below
+P6224	level of description
+P4552	mountain range
+P61	discoverer or inventor
+P136	genre
+P6112	category for members of a team
+P710	participant
+P457	foundational text
+P407	language of work or name
+P2770	source of income
+P4387	update method
+P3402	CNC film rating (Romania)
+P129	physically interacts with
+P47	shares border with
+P5642	risk factor
+P3092	film crew member
+P421	located in time zone
+P2647	source of material
+P101	field of work
+P735	given name
+P418	has seal, badge, or sigil
+P1875	represented by
+P1455	list of works
+P6942	animator
+P837	day in year for periodic occurrence
+P2358	praenomen
+P6149	running mate
+P2348	time period
+P2363	NMHH film rating
+P2175	medical condition treated
+P489	currency symbol description
+P3156	Australian Classification
+P1336	territory claimed by
+P828	has cause
+P1412	languages spoken, written or signed
+P92	main regulatory text
+P123	publisher
+P840	narrative location
+P501	enclave within
+P462	color
+P3300	musical conductor
+P459	determination method or standard
+P162	producer
+P86	composer
+P515	phase of matter
+P1642	acquisition transaction
+P364	original language of film or TV show
+P4428	implementation of
+P413	position played on team / speciality
+P58	screenwriter
+P2515	costume designer
+P859	sponsor
+P2293	genetic association
+P4424	mandates
+P3730	next higher rank
+P406	soundtrack release
+P88	commissioned by
+P412	voice type
+P7078	typing discipline
+P642	of (DEPRECATED)
+P618	source of energy
+P1434	takes place in fictional universe
+P747	has edition or translation
+P2408	set in period
+P1877	after a work by
+P306	operating system
+P3919	contributed to creative work
+P1876	vessel
+P1431	executive producer
+P1546	motto
+P450	astronaut mission
+P3349	designed to carry
+P159	headquarters location
+P91	sexual orientation
+P3729	next lower rank
+P2650	interested in
+P414	stock exchange
+P1040	film editor
+P2813	house publication
+P2632	place of detention
+P812	academic major
+P3373	sibling
+P1809	choreographer
+P3975	general secretary
+P3205	patient of
+P931	place served by transport hub
+P607	participated in conflict
+P279	subclass of
+P3450	sports season of league or competition
+P512	academic degree
+P277	programmed in
+P287	designed by
+P703	found in taxon
+P545	torch lit by
+P3448	stepparent
+P276	location
+P533	target
+P1299	depicted by
+P972	catalog
+P4132	linguistic typology
+P1344	participant in
+P2303	exception to constraint
+P22	father
+P366	has use
+P3818	KMRB film rating
+P176	manufacturer
+P286	head coach
+P3179	territory overlaps
+P2176	drug or therapy used for treatment
+P2416	sports discipline competed in
+P179	part of the series
+P1398	structure replaces
+P411	canonization status
+P272	production company
+P178	developer
+P1411	nominated for
+P5800	narrative role
+P20	place of death
+P4733	produced sound
+P3716	social classification
+P108	employer
+P553	website account on
+P1151	topic's main Wikimedia portal
+P1365	replaces
+P4913	dialect of
+P749	parent organization or unit
+P929	color space
+P485	archives at
+P5940	plot expanded in
+P598	commander of (DEPRECATED)
+P437	distribution format
+P2360	intended public
+P1142	political ideology
+P725	voice actor
+P6275	copyright representative
+P669	located on street
+P5998	distributary
+P3403	coextensive with
+P2925	domain of saint or deity
+P6	head of government
+P2388	position held by head of the organization
+P3680	statement supported by
+P1789	chief operating officer
+P944	code of nomenclature
+P2359	nomen gentilicium
+P5110	has grammatical person
+P144	based on
+P206	located in or next to body of water
+P1075	rector
+P1889	different from
+P5102	nature of statement
+P6872	has written for
+P376	located on astronomical body
+P1830	owner of
+P3719	regulated by
+P3833	diaspora
+P511	honorific prefix
+P69	educated at
+P137	operator
+P2633	geography of topic
+P410	military, police or special rank
+P505	general manager
+P941	inspired by
+P97	noble title
+P2643	Carnegie Classification of Institutions of Higher Education
+P3512	means of locomotion
+P463	member of
+P1313	office held by head of government
+P360	is a list of
+P1011	excluding
+P2210	relative to
+P2652	partnership with
+P825	dedicated to
+P937	work location
+P1264	valid in period
+P1879	income classification (Philippines)
+P143	imported from Wikimedia project
+P31	instance of
+P5021	assessment
+P5869	model item
+P208	executive body
+P25	mother
+P4101	thesis submitted to
+P802	student
+P1537	contributing factor of
+P2747	Filmiroda rating
+P194	legislative body
+P641	sport
+P655	translator
+P30	continent
+P3461	designated as terrorist by
+P741	playing hand
+P2283	uses
+P2098	substitute/deputy/replacement of office/officeholder
+P831	parent club
+P113	airline hub
+P36	capital
+P449	original broadcaster
+P40	child
+P1441	present in work
+P155	follows
+P371	presenter
+P610	highest point
+P1018	language regulatory body
+P135	movement
+P2596	culture
+P172	ethnic group
+P770	cause of destruction
+P6885	historical region
+P2849	produced by
+P1582	natural product of taxon
+P674	characters
+P3602	candidacy in election
+P5201	IMDA rating
+P509	cause of death
+P451	unmarried partner
+P1383	contains settlement
+P3969	signed form
+P180	depicts
+P945	allegiance
+P974	tributary
+P166	award received
+P4952	safety classification and labelling
+P6106	uses capitalization for
+P2853	electrical plug type
+P559	terminus
+P1013	criterion used
+P2684	Kijkwijzer rating
+P2564	Köppen climate classification
+P1393	proxy
+P5125	Wikimedia outline
+P3279	statistical leader
+P6886	writing language
+P186	made from material
+P873	phase point
+P3161	has grammatical mood
+P5389	permanent resident of
+P780	symptoms and signs
+P27	country of citizenship
+P1898	lowest note
+P2061	aspect ratio (W:H)
+P1596	penalty
+P3174	art director
+P134	no_label
+P185	doctoral student
+P2522	competition won
+P1853	blood type
+P1811	list of episodes
+P400	platform
+P629	edition or translation of
+P106	occupation
+P1346	winner
+P1028	donated by
+P1050	medical condition
+P915	filming location
+P4100	parliamentary group
+P1429	has pet
+P2629	BBFC rating
+P3828	wears
+P119	place of burial
+P115	home venue
+P3075	official religion
+P2715	elected in
+P1072	readable file format
+P611	religious order
+P5150	IGAC rating
+P6758	supported sports team
+P1039	kinship to subject
+P2614	World Heritage criteria
+P1611	NATO code for grade
+P924	possible treatment
+P118	league or competition
+P112	founded by
+P1387	political alignment
+P1308	position holder
+P1376	capital of
+P1066	student of
+P1060	disease transmission process
+P2453	nominee
+P748	appointed by
+P453	character role
+P5009	complies with
+P1269	facet of
+P1478	has immediate cause
+P1290	godparent
+P910	topic's main category
+P797	authority
+P2554	production designer
+P2746	production statistics
+P991	successful candidate
+P2789	connects with
+P2512	has spin-off
+P1686	for work
+P170	creator
+P2989	has grammatical case
+P634	team captain
+P3005	valid in place
+P157	killed by
+P189	location of discovery
+P35	head of state
+P2578	is the study of
+P1001	applies to jurisdiction
+P241	military branch
+P149	architectural style
+P3428	INCAA film rating
+P805	statement is subject of
+P6364	official color
+P5131	possible medical findings
+P2184	history of topic
+P466	occupant
+P1981	FSK film rating
+P2852	emergency phone number
+P1576	lifestyle
+P2670	has part(s) of the class
+P3650	JMK film rating
+P5008	on focus list of Wikimedia project
+P175	performer
+P3216	ClassInd rating
+P39	position held
+P2825	via
+P5023	activity policy in this place
+P1532	country for sport
+P126	maintained by
+P2541	operating area
+P664	organizer
+P1310	statement disputed by
+P737	influenced by
+P767	contributor to the creative work or subject
+P912	has facility
+P726	candidate
+P2354	has list
+P460	said to be the same as
+P547	commemorates
+P6104	maintained by WikiProject
+P1672	this taxon is source of
+P397	parent astronomical body
+P5109	has grammatical gender
+P4000	has fruit type
+P1073	writable file format
+P1999	UNESCO language status
+P530	diplomatic relation
+P2241	reason for deprecated rank
+P344	director of photography
+P4805	make-up artist
+P676	lyricist
+P2341	indigenous to
+P3103	has tense
+P2868	subject has role
+P562	central bank/issuer
+P1480	sourcing circumstances
+P1424	topic has template
+P275	copyright license
+P885	origin of the watercourse
+P2365	cognomen
+P927	anatomical location
+P1416	affiliation
+P1035	honorific suffix
+P1399	convicted of
+P527	has part(s)
+P5025	gens
+P2822	by-product of
+P282	writing system
+P102	member of political party
+P1542	has effect
+P1706	together with
+P1304	central bank
+P1454	legal form
+P3320	board member
+P361	part of
+P85	anthem
+P237	coat of arms
+P122	basic form of government
+P1535	used by
+P264	record label
+P19	place of birth
+P5460	grants
+P921	main subject
+P53	family
+P740	location of formation
+P417	patron saint
+P1589	lowest point
+P551	residence
+P210	party chief representative
+P793	significant event
+P1791	category for people buried here
+P1995	health specialty
+P98	editor
+P461	opposite of
+P803	professorship
+P3275	storyboard artist
+P199	has organizational division
+P6087	coach of sports team
+P647	drafted by
+P1435	heritage designation
+P291	place of publication
+P923	medical examination
+P1444	destination point
+P398	child astronomical body
+P841	feast day
+P1792	category of associated people
+P2079	fabrication method
+P4967	prerequisite
+P1552	has characteristic
+P3931	copyright holder
+P4312	camera setup
+P1731	Fach vocal classification
+P1327	partner in business or sport
+P1906	office held by head of state
+P4649	identity of subject in context
+P5995	kit supplier
+P2094	competition class
+P689	afflicts
+P156	followed by
+P54	member of sports team
+P4969	derivative work
+P3342	significant person
+P469	lake on watercourse
+P57	director
+P1950	second family name in Spanish name
+P807	separated from
+P205	basin country
+P78	top-level Internet domain
+P1427	start point
+P1557	manifestation of
+P2389	organization directed by the office or position
+P103	native language
+P3871	tributary orientation
+P200	inflows
+P1884	hair color
+P425	field of this occupation
+P531	diplomatic mission sent
+P1283	filmography
+P6186	category for eponymous categories
+P84	architect
+P37	official language
+P1268	represents
+P169	chief executive officer
+P26	spouse
+P138	named after
+P4794	season starts
+P201	outflows
+P1049	worshipped by
+P495	country of origin
+P1408	licensed to broadcast to
+P1716	brand
+P1303	instrument
+P822	mascot
+P790	approved by
+P4185	iconographic symbol
+P3301	broadcast by
+P552	handedness
+P942	theme music
+P121	item operated
+P2438	narrator
+P2937	parliamentary term
+P1321	municipal affiliation of a Swiss national
+P1465	category for people who died here
+P150	contains the administrative territorial entity
+P560	direction
+P1037	director / manager
+P1534	end cause
+P1951	investor
+P1038	relative
+P190	twinned administrative body
+P2756	EIRIN film rating
+P1657	MPA film rating
+P800	notable work
+P38	currency
+P6379	has works in the collection
+P5658	railway traffic side
+P1366	replaced by
+P1080	from narrative universe
+P1382	partially coincident with
+P1056	product or material produced
+P163	flag
+P3095	practiced by
+P2860	cites work
+P2579	studied by
+P518	applies to part
+P195	collection
+P706	located in/on physical feature
+P3306	ICAA rating
+P1479	has contributing factor
+P50	author
+P131	located in the administrative territorial entity
+P1622	driving side
+P3823	Ethnologue language status
+P1464	category for people born here
+P2517	category for recipients of this award
+P1027	conferred by
+P3966	programming paradigm
+P3438	vehicle normally used
+P734	family name
+P2936	language used
+P66	ancestral home
+P3831	object of statement has role
+P2922	month of the year
+P1433	published in
+P17	country
+P2842	place of marriage
+P5152	KAVI rating
+P3902	had as last meal
+P2758	CNC film rating (France)
+P3150	birthday
+P7047	enemy
+P21	sex or gender
