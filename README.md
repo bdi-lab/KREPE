@@ -89,7 +89,7 @@ The command to generate facts for *Arbitrary Masking* setting using KREPE on WD5
 python sampling_mask.py --dataset_name wd50k-eval --exp ICML2026 --log_name krepe --test_epoch 1950 --input_file ./data/wd50k-eval/arbitrary_masking.txt --steps 1000 --ent_p 0.7 --ent_temp 0.55 --rel_p 0.5 --rel_temp 0.5 --max_retries 10 --dim 128 --act GELU --num_layer 16 --num_head_ent 4 --num_head_rel 4
 ```
 
-Please refer to our paper for the sampling hyperparmeters used for other settings and other datasets.
+For the sampling hyperparameters used in other settings and datasets, please refer to our paper.
 
 The generated facts can be evaluated by running ``verify.sh`` under ``./verification``.\
 Evaluation requires an OpenAI API key. Please replace ``"API_KEY_HERE"`` in ``verification/gpt_verify.py`` with your actual key.
