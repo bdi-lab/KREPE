@@ -1,0 +1,6 @@
+--extra-index-url https://download.pytorch.org/whl/cu118
+tqdm==4.67.1
+numpy==2.3.3
+torch==2.6.0
+openai
+google-genai
