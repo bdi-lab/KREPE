@@ -1,9 +1,9 @@
 # Generative Representation Learning on Hyper-relational Knowledge Graphs via Masked Discrete Diffusion
 
-This is the official code and data of [Generative Representation Learning on Hyper-relational Knowledge Graphs via Masked Discrete Diffusion]
+This is the official code and data of "Generative Representation Learning on Hyper-relational Knowledge Graphs via Masked Discrete Diffusion"
 ### Accepted to the 43rd International Conference on Machine Learning (ICML 2026).
 
-Codes written by Jaejun Lee (jjlee98@kaist.ac.kr) and Seheon Kim (jacobpower@kaist.ac.kr).\
+Codes are written by [Jaejun Lee](https://jaejunlee714.github.io/) (jjlee98@kaist.ac.kr) and Seheon Kim (jacobpower@kaist.ac.kr).\
 If you use this code, please cite our paper.
 <!--
 ```bibtex
