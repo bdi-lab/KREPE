@@ -11,7 +11,7 @@ If you use this code, please cite our paper.
 	title={Generative Representation Learning on Hyper-relational Knowledge Graphs via Masked Discrete Diffusion},
 	booktitle={Proceedings of the 43rd International Conference on Machine Learning},
 	year={2026},
-	pages={64205-64232}
+	pages={64205--64232}
 }
 ```
 
