@@ -5,17 +5,17 @@ This is the official code and data of "Generative Representation Learning on Hyp
 
 Codes are written by [Jaejun Lee](https://jaejunlee714.github.io/) (jjlee98@kaist.ac.kr) and Seheon Kim (jacobpower@kaist.ac.kr).\
 If you use this code, please cite our paper.
-<!--
 ```bibtex
 @inproceedings{krepe,
 	author={Jaejun Lee, Seheon Kim, and Joyce Jiyoung Whang},
 	title={Generative Representation Learning on Hyper-relational Knowledge Graphs via Masked Discrete Diffusion},
 	booktitle={Proceedings of the 43rd International Conference on Machine Learning},
 	year={2026},
-	pages={}
+	pages={64205-64232}
 }
 ```
--->
+
+<!--
 ```bibtex
 @inproceedings{krepe,
   author={Jaejun Lee and Seheon Kim and Joyce Jiyoung Whang},
@@ -25,6 +25,7 @@ If you use this code, please cite our paper.
 	doi={10.48550/arXiv.2605.24064},
 }
 ```
+-->
 
 
 ## Requirements
